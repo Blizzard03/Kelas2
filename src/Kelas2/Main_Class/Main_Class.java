@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package latihan_konversi2.Latihan_Konversi2.Main_Class;
+package Kelas2.Main_Class;
 
-import latihan_konversi2.Latihan_Konversi2.Buku_Class.Buku_Class;
+import Kelas2.Buku_Class.Buku_Class;
 
 /**
  *
